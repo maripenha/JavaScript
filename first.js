@@ -21,3 +21,4 @@ console.log(`Cor predominante: ${corDoCarro}, Modelo do carro: ${modeloDoCarro},
     4- vodka
  `)
  
+ 
